@@ -1,4 +1,4 @@
-# Background Generator Project
+# Background Generator Project ✨
 This is a simple background generator web application built using HTML, CSS, and JavaScript. With this application, users can generate gradient backgrounds and copy the corresponding CSS code to use in their projects.
 
 
